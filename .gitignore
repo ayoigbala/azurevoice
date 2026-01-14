@@ -1,0 +1,4 @@
+# Content from the add-gitignore branch
+*.log
+*.tmp
+node_modules/

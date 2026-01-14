@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f921284-f093-4cc8-a533-8bd449a8288b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../react-backend/public/assets/images/logo-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-backend/public/assets/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-backend/public/assets/images/man-with-laptop-light.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/build/assets/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/build/assets/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/build/assets/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/build/assets/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/public/assets/css/app-dark-theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/public/assets/css/app-dark-theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/public/assets/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/public/assets/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/public/assets/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/public/assets/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/public/assets/css/bootstrap-grid.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/public/assets/css/bootstrap-grid.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/public/assets/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/public/assets/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/public/assets/css/bootstrap-reboot.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/public/assets/css/bootstrap-reboot.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/public/assets/css/bootstrap-utilities.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/public/assets/css/bootstrap-utilities.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/public/assets/css/bootstrap-utilities.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/public/assets/css/bootstrap-utilities.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/public/assets/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/public/assets/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/public/assets/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/public/assets/css/bootstrap.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/public/assets/css/bootstrap.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/src/assets/fonts/Times.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/src/components/SideBarMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/src/components/SideBarMenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/src/config/Settings.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/src/config/Settings.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/src/pages/admin/AdminDashboardPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/src/pages/admin/AdminDashboardPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/src/pages/admin/AdminIndexPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/src/pages/admin/AdminIndexPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/src/pages/admin/UpgradePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/src/pages/admin/UpgradePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/src/pages/admin/affiliate/AffiliatePayoutsPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/src/pages/admin/affiliate/AffiliatePayoutsPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/src/pages/admin/affiliate/AffiliateSettingsPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/src/pages/admin/affiliate/AffiliateSettingsPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/src/pages/admin/builder/BuilderPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/src/pages/admin/builder/BuilderPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/src/pages/admin/builder/components/BuilderContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/src/pages/admin/builder/components/BuilderContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/src/pages/admin/catalog/CategoriesPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/src/pages/admin/catalog/CategoriesPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/src/pages/admin/catalog/CreatedToolsPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/src/pages/admin/catalog/CreatedToolsPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/src/pages/admin/design/EmailFormPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/src/pages/admin/design/EmailFormPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/src/pages/admin/design/EmailsPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/src/pages/admin/design/EmailsPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/src/pages/admin/design/PageFormPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/src/pages/admin/design/PageFormPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/src/pages/admin/design/PagesPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/src/pages/admin/design/PagesPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/src/pages/admin/design/ThemePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/src/pages/admin/design/ThemePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/src/pages/admin/language/LocalizationPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/src/pages/admin/language/LocalizationPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/src/pages/admin/language/TranslationsPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/src/pages/admin/language/TranslationsPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/src/pages/admin/payment/PaymentMethodsPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/src/pages/admin/payment/PaymentMethodsPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/src/pages/admin/settings/AuthorizationSettingsPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/src/pages/admin/settings/AuthorizationSettingsPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/src/pages/admin/settings/EmailSettingsPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/src/pages/admin/settings/EmailSettingsPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/src/pages/admin/settings/GeneralSettingsPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/src/pages/admin/settings/GeneralSettingsPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/src/pages/admin/settings/OpenAiSettingsPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/src/pages/admin/settings/OpenAiSettingsPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/src/pages/admin/user/PlanFormPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/src/pages/admin/user/PlanFormPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/src/pages/admin/user/PlanPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/src/pages/admin/user/PlanPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/src/pages/admin/user/RolePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/src/pages/admin/user/RolePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/src/pages/admin/user/SubscribersPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/src/pages/admin/user/SubscribersPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/src/pages/admin/user/UserListPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/src/pages/admin/user/UserListPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/src/pages/admin/user/UserProfilePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/src/pages/admin/user/UserProfilePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-backend/src/pages/auth/SignInPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-backend/src/pages/auth/SignInPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../react-front/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-front/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../react-front/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-front/public/assets/css/app-dark-theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/../react-front/public/assets/css/app-dark-theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-front/public/assets/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-front/public/assets/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-front/public/assets/css/bootstrap-grid.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-front/public/assets/css/bootstrap-grid.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-front/public/assets/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-front/public/assets/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-front/public/assets/css/bootstrap-reboot.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-front/public/assets/css/bootstrap-reboot.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-front/public/assets/css/bootstrap-utilities.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-front/public/assets/css/bootstrap-utilities.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-front/public/assets/css/bootstrap-utilities.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-front/public/assets/css/bootstrap-utilities.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-front/public/assets/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/../react-front/public/assets/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-front/public/assets/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-front/public/assets/css/bootstrap.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-front/public/assets/css/bootstrap.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-front/public/assets/css/dashboard.css" beforeDir="false" afterPath="$PROJECT_DIR$/../react-front/public/assets/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-front/public/assets/css/landing.css" beforeDir="false" afterPath="$PROJECT_DIR$/../react-front/public/assets/css/landing.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-front/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../react-front/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-front/public/templates/landing/service_card.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/../react-front/public/templates/landing/service_card.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-front/src/components/SideBarMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-front/src/components/SideBarMenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-front/src/helpers/Utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-front/src/helpers/Utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-front/src/pages/ContactPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-front/src/pages/ContactPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-front/src/pages/HomePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-front/src/pages/HomePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-front/src/pages/IndexPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-front/src/pages/IndexPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-front/src/pages/PricingPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-front/src/pages/PricingPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-front/src/pages/dashboard/AudioPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-front/src/pages/dashboard/AudioPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-front/src/pages/dashboard/DashboardMainPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-front/src/pages/dashboard/DashboardMainPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-front/src/pages/dashboard/DashboardPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-front/src/pages/dashboard/DashboardPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-front/src/pages/dashboard/ReferralPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-front/src/pages/dashboard/ReferralPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-front/src/pages/dashboard/TranscriptionPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-front/src/pages/dashboard/TranscriptionPage.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Wt0uLzcwnD2atlYGWjkOnzYdfT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f921284-f093-4cc8-a533-8bd449a8288b" name="Changes" comment="" />
+      <created>1697536791091</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697536791091</updated>
+      <workItem from="1697536792584" duration="1000" />
+    </task>
+    <servers />
+  </component>
+</project>
