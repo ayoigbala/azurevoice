@@ -34,33 +34,9 @@ return [
         'secret' => env('SPARKPOST_SECRET'),
     ],
 
-    'facebook' => [
-        'client_id' => env('FACEBOOK_APP_ID'),
-        'client_secret' => env('FACEBOOK_APP_SECRET'),
-        'redirect'      => env('FACEBOOK_APP_CALLBACK_URL'),
-    ],
-
-    'twitter' => [
-        'client_id' => env('TWITTER_APP_ID'),
-        'client_secret' => env('TWITTER_APP_SECRET'),
-        'redirect' => env('TWITTER_APP_CALLBACK_URL'),
-    ],
-
     'google' => [
         'client_id'     => env('GOOGLE_CLIENT_ID'),
         'client_secret' => env('GOOGLE_CLIENT_SECRET'),
         'redirect'      => env('GOOGLE_CLIENT_CALLBACK_URL'),
-    ],
-
-    "sign_in_with_apple" => [
-        "redirect" => env("SIGN_IN_WITH_APPLE_REDIRECT"),
-        "client_id" => env("SIGN_IN_WITH_APPLE_CLIENT_ID"),
-        "client_secret" => env("SIGN_IN_WITH_APPLE_CLIENT_SECRET"),
-    ],
-
-    'discord' => [
-        'client_id'     => env('DISCORD_CLIENT_ID'),
-        'client_secret' => env('DISCORD_CLIENT_SECRET'),
-        'redirect'      => env('DISCORD_REDIRECT'),
     ],
 ];

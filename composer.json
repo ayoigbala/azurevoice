@@ -6,7 +6,6 @@
     "license": "MIT",
     "require": {
         "php": "^8.0.2",
-        "aws/aws-sdk-php": "^3.273",
         "darryldecode/cart": "^4.2",
         "famdirksen/laravel-referral": "^1.0",
         "fideloper/proxy": "^4.4",
@@ -20,7 +19,6 @@
         "laravel/socialite": "^5.6",
         "laravel/tinker": "^2.7",
         "laravel/ui": "^4.2",
-        "league/flysystem-aws-s3-v3": "^3.16",
         "mews/purifier": "^3.3",
         "musonza/chat": "^6.2",
         "azurevoice/laravel-selfupdater": "^5.2",
@@ -35,7 +33,6 @@
         "spatie/laravel-backup": "^8.1",
         "spatie/laravel-medialibrary": "^10.7",
         "spatie/laravel-sitemap": "^6.2",
-        "stripe/stripe-php": "^10.5",
         "torann/laravel-meta-tags": "^3.0"
     },
     "require-dev": {
